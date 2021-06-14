@@ -16,6 +16,8 @@
   <modules>
     <module>jitexecutor-dmn</module>
     <module>jitexecutor-runner</module>
+    <module>jitexecutor-bpmn</module>
+    <module>jitexecutor-bpmn-runner</module>
   </modules>
 
 </project>
